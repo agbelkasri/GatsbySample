@@ -2,8 +2,8 @@
 title: 'Contact'
 ---
 
-Hey there! Contact me at
-<a href='mailto:myemail@mydomain.com'>`myemail@mydomain.com`</a>.
+Howard can be reached at
+<a href='mailto:myemail@mydomain.com'>`hotwheelskid2009@gmail.com`</a>.
 
 ---
 
