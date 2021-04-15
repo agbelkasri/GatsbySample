@@ -9,12 +9,10 @@ export default function Footer() {
     <footer>
       <br />
       <h6>
-        Copyright &copy; {new Date().getFullYear()}
-        {', '}
-        {meta.name}
+        Belkasri
       </h6>
       <h6>
-        Website template made by <a href='https://valisoft.net'>VALISOFT</a>
+        For CSC 5750
       </h6>
     </footer>
   );
