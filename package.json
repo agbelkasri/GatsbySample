@@ -3,7 +3,7 @@
   "private": true,
   "description": "A template for the creation of simple personal GatsbyJS websites.",
   "version": "0.0.0",
-  "author": "Victor Li <victor@valisoft.net>",
+  "author": "Howard",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
