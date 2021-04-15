@@ -20,7 +20,7 @@ function getContentSection(sections, name) {
 }
 
 export default function IndexPage({data}) {
-  const profileSections = ['Bio', 'Resume', 'CV', 'Portfolio', 'Contact'];
+  const profileSections = ['Bio', 'Mission', 'CV', 'Portfolio', 'Contact'];
   const {edges: sectionContents} = data.allMarkdownRemark;
   return (
     <Page>
